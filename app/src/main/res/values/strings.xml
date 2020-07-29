@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityA</string>
+    <string name="textView1">TextView</string>
+    <string name="button1">Ask Question</string>
+    <string name="textView2">textView1</string>
+    <string name="button2">Answer Question</string>
+</resources>
